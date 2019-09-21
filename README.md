@@ -164,4 +164,3 @@ www.linkedin.com/in/bachforschung/
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2019*
 
 **CC-BY-NC-ND 4.0**
-
