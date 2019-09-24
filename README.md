@@ -2,7 +2,7 @@
 
 ## A. In statu nascendi (1985-2025)
 
-01. *O Anfang sonder Ende!* - Eine alte und 40 neue Spuren zur Identifizierung des "Leipziger" Hauptlibrettisten Johann Sebastian Bachs.
+01. *O Anfang sonder Ende!* - Eine alte und 40 neue Spuren zur Identifizierung des "Leipziger" Hauptlibrettistens Johann Sebastian Bachs.
 
 02. *Wozu dienet dieser Unrat?* - Drei wiederaufgenommene Spuren zur frühesten Entstehungs- und zur frühesten Rezeptionsgeschichte der Matthäuspassion Johann Sebastian Bachs BWV 244b. (Alfred Dürr 1974; Eric Chafe 1981/82; John Eliot Gardiner 2014.)
 
@@ -105,6 +105,9 @@
 18. Erinnerungen an die erste, spontane Inaugenscheinnahme und an die nachfolgende provisorische Transkription der frühesten norddeutschen Orgeltabulatur des Magister Ludolf Lying (1445) sowie an die abenteuerlichen Umstände beim Besuch von deren Erstaufführung.
 
 19. *Lust auf Lost Places?* Drei Jahre Konzertbesuche in der Elbphilharmonie als musikalisches Lebenselixier eines  wiedergeborenen Nordeutschen.
+
+20. Orgelmusik zwischen den Weltkriegen. Widor - Sorabji - Fortner. Über die unglaubliche Ungleichheit des Gleichzeitigen. (Synopse in Form einer interaktiven Zeitlinie.)
+
 
 ## C. Ad oculos - ad aures
 
