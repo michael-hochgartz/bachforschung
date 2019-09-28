@@ -106,7 +106,7 @@
 
 19. *Lust auf Lost Places?* Drei Jahre Konzertbesuche in der Elbphilharmonie als musikalisches Lebenselixier eines  wiedergeborenen Nordeutschen.
 
-20. *Wasserflasche und Energieriegel* Orgelmusik zwischen den Weltkriegen. Widor - Sorabji - Fortner. Über die unglaubliche Ungleichheit des Gleichzeitigen. (Synopse in Form einer interaktiven Zeitlinie.)
+20. *Wasserflasche und Energieriegel* - Orgelmusik zwischen den Weltkriegen. Widor - Sorabji - Fortner. Über die unglaubliche Ungleichheit des Gleichzeitigen. (Synopse in Form einer interaktiven Zeitlinie.)
 
 
 ## C. Ad oculos - ad aures
