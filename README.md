@@ -44,7 +44,7 @@
 
 21. Einblicke in das Berufungsverfahren zur Wahl Erdmann Neumeisters zum Hauptpastor der Hamburger Hauptkirche St. Jakobi 1714/15 anhand der Protokoll- und Memorialbücher im Staatsarchiv Hamburg.
 
-22. Henriette Charlotte von Gersdorff - Spuren zu J.S. Bachs Kantatentexten in ihrem postum veröffentlichten poetischen Gesamtwerk? - Eine müßige Frage!
+22. Henriette Catharina von Gersdorff - Spuren zu J.S. Bachs Kantatentexten in ihrem postum veröffentlichten poetischen Gesamtwerk? - Eine müßige Frage!
 
 23. Buchhalterische Spuren einer (horribile dictu!) Karfreitagsmusik am Hof zu Köthen?
 
