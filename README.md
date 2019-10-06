@@ -80,7 +80,7 @@
 
 06. Eine zeitgenössische Quelle zur Cent-genauen Schätzung der Stimmtonhöhe Hamburger Kirchenmusikaufführungen während der späten Amtszeit C.P.E. Bachs. (Primärquellendokumentation; ~1993)
 
-07. Autographe curricula vitae nebst Empfehlungsschreiben mitteldeutscher Kandidaten in den Bewerbungsakten für ein norddeutsches Kantorat. (Primärquellendokumentation; ~1993; darin u.a.: eine per couvert verschickte Kantatenpartitur)
+07. Autographe curricula vitae mitteldeutscher Kandidaten nebst Empfehlungsschreiben in den Bewerbungsakten für ein norddeutsches Kantorat. (Primärquellendokumentation; ~1993; darin u.a.: eine per couvert verschickte Kantatenpartitur)
 
 08. Digitale Grundlagen für eine analoge zeichnerische Rekonstruktion der Möller-Orgel im Paulusdom Münster. (1991 für eine Auftragsarbeit des Münsterischen Domkapitels zugeliefert. 2004 - mit unzutreffendem Urhebernachweis für Abb. 25.8 - veröffentlicht in: ISBN 3-8053-3416-8, Teilband 2.2.)
 
@@ -134,7 +134,7 @@
 
 02. Domorganist Prof. Dr. Winfried Schlepphorst (Orgel- und Musikwissenschaft)
 
-03. Prof.'in Dr. med. / Dr. phil. Maria-Elisabeth Brockhoff (Musikwissenschaft)
+03. Prof.'in Dr. Maria-Elisabeth Brockhoff (Musikwissenschaft)
 
 04. Prof. Dr. Klaus-Wolfgang Niemöller (Musikwissenschaft)
 
