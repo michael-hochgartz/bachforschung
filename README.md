@@ -2,7 +2,7 @@
 
 ## A. In statu nascendi (1985-2025)
 
-01. *O Anfang sonder Ende!* - Eine alte und 40 neue Spuren zur Identifizierung des "Leipziger" Hauptlibrettistens Johann Sebastian Bachs.
+01. *O Anfang sonder Ende!* - Eine alte und 40 neue Spuren zur Identifizierung des "Leipziger" Hauptlibrettisten Johann Sebastian Bachs.
 
 02. *Wozu dienet dieser Unrat?* - Drei wiederaufgenommene Spuren zur frühesten Entstehungs- und zur frühesten Rezeptionsgeschichte der Matthäuspassion Johann Sebastian Bachs BWV 244b. (Alfred Dürr 1974; Eric Chafe 1981/82; John Eliot Gardiner 2014.)
 
