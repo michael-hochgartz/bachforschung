@@ -16,7 +16,7 @@
 
 07. *Gottlob! der Drache liegt!* - Bremsspuren der Kontroversen um die kulturpolitische Sozialisation Christian Friedrich Henricis (alias Picander) in den Subtexten Leipziger Vokalwerke Johann Sebastian Bachs.
 
-08. *Zerreißet, zerschmettert! Eröffne, verschlinge!* - Eine peinlich profane Parodie der Rachearien zeitgenössischer Passionsmusiken für die Augen (und Ohren?) des Leipziger Publikums in der Saison 1725.
+08. *Zerreißet, zerschmettert! Eröffne, verschlinge!* - Eine peinlich profane Parodie der Rachearien (*Dirae*) zeitgenössischer Passionsmusiken für die Augen (und Ohren?) des Leipziger Publikums in der Saison 1725.
 
 09. *In hiesiger Residentz ... das neu-componirte Stück ...* - Eine schmale Spur zu den letzten in Freiheit verbrachten Arbeitstagen Johann Sebastian Bachs in Weimar.
 
