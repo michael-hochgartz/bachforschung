@@ -89,6 +89,7 @@
 10. Digitale Notendruckvorlage für eine vorläufige kritische Ausgabe der *Fantasia ex C dis* BWV 1121 anhand des Tabulaturautographs. (Privatdruck ~1998)
 
 11. www.bach-konkordanz.de - Relationale Zuordnung von Texten (BG; Wustmann, NBA) bzw. Übersetzungen (Terry; et al.) der Kantaten J.S. Bachs mit Referenzen zu biblischen Allusionen (Luther 1914; Vulgata; King James). Fremdsprachliche Interlinear-Übersetzungen mit automatisierten Hinweisen zur deutschen Aussprache für Chorsänger und Solisten. Materialsammlung (XML), Datenstruktur (MySQL) und Funktionsgerüst (PHP). Aus arbeitsökonomischen Gründen 2004 eingefroren.
+Wiederaufnahme 2020ff als nichtrelationaler Cognitive Service (Azure Search / Azure API-Manager)
 
 12. Evaluierung ausgewählter Methoden zur *authorship attribution* (conditional probability vs. max entropy classifier) bei der Suche nach J.S. Bachs anonymen Librettisten. (2000-2014. Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatzes eingestellt.)
 
