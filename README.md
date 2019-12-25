@@ -164,7 +164,11 @@ www.linkedin.com/in/bachforschung/
 
 02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
 
-## G. Regulae
+## G. In Honorem
+
+01. Martin Petzoldt https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn
+
+## H. Regulae
 
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2019*
 
