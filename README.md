@@ -166,9 +166,13 @@ www.linkedin.com/in/bachforschung/
 
 02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
 
-## G. In Honorem
+## G. In Memoriam
 
-01. Martin Petzoldt https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn
+01. Alfred Dürr (Youtube deest)
+
+02. Martin Petzoldt https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn
+
+03. Yoshitake Kobayashi (Youtube deest)
 
 ## H. Regulae
 
