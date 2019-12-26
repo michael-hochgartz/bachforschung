@@ -110,6 +110,8 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 20. *Wasserflasche und Energieriegel* - Orgelmusik zwischen den Weltkriegen. Widor - Sorabji - Fortner. Über die unglaubliche Ungleichheit des Gleichzeitigen. (Synopse in Form einer interaktiven Zeitlinie.)
 
+21. φόβος ἀνάκρουσις? Randbemerkungen zu einer - vielleicht verzeihlichen - Fehleistung der Bandbearbeiter (oder der Breitkopfschen Notenstecher?) von DDT I/XLV.
+
 
 ## C. Ad oculos - ad aures
 
