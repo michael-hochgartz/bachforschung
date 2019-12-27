@@ -112,7 +112,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 21. φόβος ἀνάκρουσις? Randbemerkungen zu einer - vielleicht verzeihlichen - Fehleistung der Bandbearbeiter (oder der Breitkopfschen Notenstecher?) von DDT I/XLV.
 
-22. *Meine Abreise aus Braunschweig war so eilfertig ...* - Aur der Suche nach archivalischen Spuren zu Wilhelm Friedemann Bachs auf der Flucht vor einer Subhastation durch seine Gläubiger hinterlassenen *Musikalien und Büchern, ... Kirchen Musiquen und Jahrgängen*.
+22. *Meine Abreise aus Braunschweig war so eilfertig ...* - Aur der Suche nach archivalischen Spuren zu Wilhelm Friedemann Bachs (auf der Flucht vor einer Subhastation durch seine Gläubiger) hinterlassenen *Musikalien und Büchern, ... Kirchen Musiquen und Jahrgängen*.
 
 ## C. Ad oculos - ad aures
 
@@ -169,11 +169,12 @@ www.linkedin.com/in/bachforschung/
 
 ## G. In Memoriam
 
-01. Alfred Dürr (Youtube deest)
+01. Alfred Dürr (private Korrespondenz)
 
-02. Martin Petzoldt https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn
+02. Yoshitake Kobayashi (private Korrespondenz)
 
-03. Yoshitake Kobayashi (Youtube deest)
+03. Martin Petzoldt (leider nur durch dieses Medium: https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn)
+
 
 ## H. Regulae
 
