@@ -173,7 +173,7 @@ www.linkedin.com/in/bachforschung/
 
 02. Yoshitake Kobayashi (private Korrespondenz)
 
-03. Martin Petzoldt (leider nur durch dieses Medium: https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn)
+03. Martin Petzoldt (https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn)
 
 
 ## H. Regulae
