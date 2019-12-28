@@ -172,6 +172,8 @@ www.linkedin.com/in/bachforschung/
 
 02. https://www.bach-cantatas.com/Articles/Stubel-Theory.htm
 
+03. https://de.wikipedia.org/wiki/Bach-Compendium
+
 ## H. In Memoriam
 
 01. Alfred Dürr (private Korrespondenz)
