@@ -160,6 +160,8 @@ www.linkedin.com/in/bachforschung/
 
 ///divisions.arriving.curry
 
+Quod non legitur, non creditur?
+
 
 ## F. Paralipomena
 
