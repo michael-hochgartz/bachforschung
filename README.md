@@ -160,16 +160,19 @@ www.linkedin.com/in/bachforschung/
 
 ///divisions.arriving.curry
 
-Quod non legitur, non creditur?
-
-
 ## F. Paralipomena
 
 01. ~100 Musik-, Literatur- und Theaterkritiken für die ehemalige Münstersche Zeitung. (1990-1997)
 
 02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
 
-## G. In Memoriam
+## G. Tolle! Lege!! (Quod non legitur, non creditur?)
+
+01. http://monarchieliga.de/index.php?title=Sämtliche_Choräle_und_Lieder_Johann_Sebastian_Bachs
+
+02. https://www.bach-cantatas.com/Articles/Stubel-Theory.htm
+
+## H. In Memoriam
 
 01. Alfred Dürr (private Korrespondenz)
 
@@ -178,7 +181,8 @@ Quod non legitur, non creditur?
 03. Martin Petzoldt (https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn)
 
 
-## H. Regulae
+## I
+. Regulae
 
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2019*
 
