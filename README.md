@@ -166,7 +166,7 @@ www.linkedin.com/in/bachforschung/
 
 02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
 
-## G. Tolle! Lege!! (Quod non legitur, non creditur?)
+## G. Tolle! Lege!! (Quod non legitur, non creditur!!!)
 
 01. http://monarchieliga.de/index.php?title=Sämtliche_Choräle_und_Lieder_Johann_Sebastian_Bachs
 
