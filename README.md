@@ -166,22 +166,13 @@ www.linkedin.com/in/bachforschung/
 
 02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
 
-## G. Tolle! Lege!! (Quod non legitur, non creditur!!!)
-
-01. http://monarchieliga.de/index.php?title=Sämtliche_Choräle_und_Lieder_Johann_Sebastian_Bachs
-
-02. https://www.bach-cantatas.com/Articles/Stubel-Theory.htm
-
-03. https://de.wikipedia.org/wiki/Bach-Compendium
-
-## H. In Memoriam
+## G. In Memoriam
 
 01. Alfred Dürr (private Korrespondenz)
 
 02. Yoshitake Kobayashi (private Korrespondenz)
 
 03. Martin Petzoldt (https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn)
-
 
 ## I. Regulae
 
