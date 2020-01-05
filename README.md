@@ -172,7 +172,7 @@ www.linkedin.com/in/bachforschung/
 
 02. Yoshitake Kobayashi (private Korrespondenz)
 
-03. Martin Petzoldt (https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn)
+03. Martin Petzoldt (https://youtu.be/aVxYNKQDN0A)
 
 ## H. Ad astra (sine aspera?) 
 
@@ -182,6 +182,6 @@ www.linkedin.com/in/bachforschung/
 
 ## I. Regulae
 
-*Copyright Michael Hochgartz, D-48153 Münster, 2015-2019*
+*Copyright Michael Hochgartz, D-48153 Münster, 2015-2020*
 
 **CC-BY-NC-ND 4.0**
