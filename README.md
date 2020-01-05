@@ -174,6 +174,12 @@ www.linkedin.com/in/bachforschung/
 
 03. Martin Petzoldt (https://www.youtube.com/watch?v=aVxYNKQDN0A&frags=pl%2Cwn)
 
+## H. Ad astra (sine aspera?) 
+
+01. https://youtu.be/fzI9FNjXQ0o
+
+02. https://youtu.be/o-FyH2A7Ed0
+
 ## I. Regulae
 
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2019*
