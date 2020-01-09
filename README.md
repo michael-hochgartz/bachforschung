@@ -174,13 +174,13 @@ www.linkedin.com/in/bachforschung/
 
 03. Martin Petzoldt (https://youtu.be/aVxYNKQDN0A)
 
-## H. Ad astra (sine aspera?) 
+## H. Ad astra
 
 01. https://youtu.be/fzI9FNjXQ0o
 
 02. https://youtu.be/o-
 
-## I. In Credo (In Unum... ?)
+## I.Credo
 
 01. https://www.youtube.com/watch?v=a8EgqUb_6WM&feature=youtu.be
 
