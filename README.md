@@ -178,9 +178,13 @@ www.linkedin.com/in/bachforschung/
 
 01. https://youtu.be/fzI9FNjXQ0o
 
-02. https://youtu.be/o-FyH2A7Ed0
+02. https://youtu.be/o-
 
-## I. Regulae
+## I. In Credo (In Unum... ?)
+
+01. https://www.youtube.com/watch?v=a8EgqUb_6WM&feature=youtu.be
+
+## J. Regulae
 
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2020*
 
