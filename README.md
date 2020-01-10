@@ -182,7 +182,7 @@ www.linkedin.com/in/bachforschung/
 
 02. https://youtu.be/o-FyH2A7Ed0
 
-## I.Credo
+## I. Credo
 
 01. https://www.youtube.com/watch?v=a8EgqUb_6WM&feature=youtu.be
 
