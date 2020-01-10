@@ -130,7 +130,9 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 07. In Münster läuten die Glocken https://youtu.be/dyJKOhZND0M
 
-08. Impressionen der heimatlichen Umgebung von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten ~~am Tag der Wiederkehr seines 350. Geburtstags ~~. (Taufstein; Lateinschule; Kanzel; Chorgestühl; Arbeitsstätten der Eltern.)
+08. Ganz Münster rotiert https://youtu.be/EdJEw83Q--o
+
+09. Impressionen der heimatlichen Umgebung von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten ~~am Tag der Wiederkehr seines 350. Geburtstags ~~. (Taufstein; Lateinschule; Kanzel; Chorgestühl; Arbeitsstätten der Eltern.)
 
 
 ## D. Ad fontes
