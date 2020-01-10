@@ -130,7 +130,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 07. In Münster läuten die Glocken https://youtu.be/dyJKOhZND0M
 
-08. Impressionen der heimatlichen Umgebung von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten am Tag der Wiederkehr seines 350. Geburtstags. (Taufstein; Lateinschule; Kanzel; Chorgestühl; Arbeitsstätten der Eltern.)
+08. Impressionen der heimatlichen Umgebung von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten ~~am Tag der Wiederkehr seines 350. Geburtstags ~~. (Taufstein; Lateinschule; Kanzel; Chorgestühl; Arbeitsstätten der Eltern.)
 
 
 ## D. Ad fontes
@@ -165,6 +165,8 @@ www.linkedin.com/in/bachforschung/
 01. ~100 Musik-, Literatur- und Theaterkritiken für die ehemalige Münstersche Zeitung. (1990-1997)
 
 02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
+
+03. Bedauerliche Erfahrungen mit wissenschaftlichen Umgangsformen hoffnungslos überarrivierter Musikwissenschaftler.
 
 ## G. In Memoriam
 
