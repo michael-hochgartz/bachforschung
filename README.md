@@ -168,8 +168,6 @@ www.linkedin.com/in/bachforschung/
 
 02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
 
-03. Erkenntnisreiche Erfahrungen mit wissenschaftlichen Umgangsformen hoffnungslos überarrivierter Musikwissenschaftler.
-
 ## G. In Memoriam
 
 01. Alfred Dürr (private Korrespondenz)
