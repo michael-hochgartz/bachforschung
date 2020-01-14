@@ -110,9 +110,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 20. *Wasserflasche und Energieriegel* - Orgelmusik zwischen den Weltkriegen. Widor - Sorabji - Fortner. Über die unglaubliche Ungleichheit des Gleichzeitigen. (Synopse in Form einer interaktiven Zeitlinie.)
 
-21. φόβος ἀνάκρουσις? Randbemerkungen zu einer - vielleicht verzeihlichen - Fehleistung der Bandbearbeiter (oder der Breitkopfschen Notenstecher?) von DDT I/XLV.
-
-22. *Meine Abreise aus Braunschweig war so eilfertig ...* - Aur der Suche nach archivalischen Spuren zu Wilhelm Friedemann Bachs (auf der Flucht vor einer Subhastation durch seine Gläubiger) hinterlassenen *Musikalien und Büchern, ... Kirchen Musiquen und Jahrgängen*.
+21. *Meine Abreise aus Braunschweig war so eilfertig ...* - Aur der Suche nach archivalischen Spuren zu Wilhelm Friedemann Bachs (auf der Flucht vor einer Subhastation durch seine Gläubiger) hinterlassenen *Musikalien und Büchern, ... Kirchen Musiquen und Jahrgängen*.
 
 ## C. Ad oculos - ad aures
 
