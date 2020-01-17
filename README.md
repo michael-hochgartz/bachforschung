@@ -135,7 +135,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 ## D. Ad fontes
 
-01. Prof. Dr. Rudolf Reuter (Musik- und Orgelwissenschaft)
+01. Prof. Dr. Rudolf Reuter (Musik- und Orgelwissenschaft) https://youtu.be/McvScaJCQW4
 
 02. Domorganist Prof. Dr. Winfried Schlepphorst (Orgel- und Musikwissenschaft)
 
