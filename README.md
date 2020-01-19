@@ -192,6 +192,10 @@ www.linkedin.com/in/bachforschung/
 
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2020*
 
+**CC-BY-NC-ND 4.0**
+
 https://archiveprogram.github.com
 
-**CC-BY-NC-ND 4.0**
+## K. Lectio difficilior
+
+https://github.com/michael-hochgartz/b-a-c-h
