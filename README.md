@@ -182,7 +182,7 @@ www.linkedin.com/in/bachforschung/
 
 ## I. Credo
 
-01. Eine Zesur findet nicht statt! https://youtu.be/a8EgqUb_6WM
+01. Eine Zensur findet nicht statt! https://youtu.be/a8EgqUb_6WM
 
 ## J. Regulae
 
