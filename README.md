@@ -164,7 +164,7 @@ www.linkedin.com/in/bachforschung/
 
 01. ~100 Musik-, Literatur- und Theaterkritiken für die ehemalige Münstersche Zeitung. (1990-1997)
 
-02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB 
+02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB) 
 
 ## G. In Memoriam
 
@@ -182,7 +182,7 @@ www.linkedin.com/in/bachforschung/
 
 ## I. Credo
 
-01. https://www.youtube.com/watch?v=a8EgqUb_6WM&feature=youtu.be
+01. Eine Zesur findet nicht statt! https://youtu.be/a8EgqUb_6WM
 
 ## J. Regulae
 
