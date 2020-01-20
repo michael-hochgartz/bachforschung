@@ -100,7 +100,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 15. Bestandsbegutachtung und Restaurierungsvorschlag für die pneumatische Schmid-Orgel (1903/1845) in der Aula des ehemaligen Lehrerseminars Oldenburg für das damalige Staatshochbauamt Oldenburg. (1992; Primärquellendokumentation; Innen- und Außenaufnahmen des seit 1964 verwahrlosten Instruments; schriftliche Handlungsempfehlung z.Hd. der Amtsleitung.)
 
-16. Ein undokumentierter Kostenanschlag für eine späte, letztendlich von einem Schüler realisierte dreimanualige Orgel Arp Schnitgers. (Darin: Eine bislang unbekannte Erwähnung Dieterich Buxtehudes als beabsichtigtem Abnahmegutachter. Primärquellendokumentation; ~1985)
+16. Ein unbeachteter Kostenanschlag für eine späte, letztendlich von einem Schüler realisierte dreimanualige Orgel Arp Schnitgers. (Darin: Eine bislang unbekannte Erwähnung Dieterich Buxtehudes als beabsichtigtem Abnahmegutachter. Primärquellendokumentation; ~1985)
 
 17. Die landesherrliche Beauftragung von Arp Schnitgers Lehrmeister Berendt Hueß mit einer systematischen Orgelpflege in der Grafschaft Oldenburg während der wirtschaftlichen und kulturellen Konsolidierungsphase nach dem 30jährigen Krieg. (Primärquellendokumentation; ~1985)
  
