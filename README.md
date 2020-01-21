@@ -120,7 +120,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 03. Das *Goldene U* bezieht Stellung gegen Nazis https://youtu.be/prLgDUU1_7o
 
-04. Meisterkurs für Orgelimpovisation https://youtu.be/xTSjP1qddzw
+04. Internationaler Wettbewerb für Orgelimprovisation Westfalen Impro 4 https://youtu.be/xTSjP1qddzw
 
 05. Orgelretter mit Schneeschieber https://youtu.be/kL0kxrkgQ1A
 
