@@ -164,7 +164,7 @@ www.linkedin.com/in/bachforschung/
 
 01. ~100 Musik-, Literatur- und Theaterkritiken für die ehemalige Münstersche Zeitung. (1990-1997)
 
-02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB) 
+02. Münstersches Orgelmagazin (Gründer, Herausgeber und Webmaster; 1996-2018; Langzeitarchivierung durch die BSB) https://studio.youtube.com/video/2EwhgV6IKjg/edit
 
 ## G. In Memoriam
 
