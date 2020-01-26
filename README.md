@@ -188,6 +188,8 @@ www.linkedin.com/in/bachforschung/
 
 01. Eine Zensur findet nicht statt! https://youtu.be/a8EgqUb_6WM
 
+02. *Kann man mit Verrückten vernünftig reden?* https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/wolf-lotter-eigenbewegung
+
 ## J. Regulae
 
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2020*
