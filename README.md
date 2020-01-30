@@ -122,15 +122,13 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 04. Internationaler Wettbewerb für Orgelimprovisation Westfalen Impro 4 https://youtu.be/xTSjP1qddzw
 
-05. Schattenspiele(r) https://www.youtube.com/watch?v=04A0ST1Eef0
+05. Orgelretter mit Schneeschieber https://youtu.be/kL0kxrkgQ1A
 
-06. Orgelretter mit Schneeschieber https://youtu.be/kL0kxrkgQ1A
+06. Erneuerte Glocken der ev. Auferstehungskirche Münster https://youtu.be/w5AGtlSDisA
 
-07. Erneuerte Glocken der ev. Auferstehungskirche Münster https://youtu.be/w5AGtlSDisA
+07. In Münster läuten die Glocken https://youtu.be/dyJKOhZND0M
 
-08. In Münster läuten die Glocken https://youtu.be/dyJKOhZND0M
-
-09. Ganz Münster rotiert https://youtu.be/EdJEw83Q--o
+08. Ganz Münster rotiert https://youtu.be/EdJEw83Q--o
 
 
 ## D. Ad fontes
