@@ -1,9 +1,6 @@
-Title:   
-Author:
+Jesu Christo Juvante 
 
-Thesen zur Identifizierung
- des „Leipziger“ Hauptlibrettisten 
-Johann Sebastian Bachs
+Thesen zur Identifizierung des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs
 
 Michael Hochgartz (D 48153 Münster)
 michael@hochgartz.de - 15.01.2020
