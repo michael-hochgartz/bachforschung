@@ -1,5 +1,4 @@
-Title:   
-Author:
+Jesu Christo Juvante
 
 Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs
 Entwurf für ein Vortragsmanuskript
