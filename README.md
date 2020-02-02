@@ -200,7 +200,29 @@ https://archiveprogram.github.com
 
 https://github.com/michael-hochgartz/b-a-c-h
 
-## L. Cave canem!
+## L. Loco Praefatio
+
+*Ach, hören Sie mir doch auf mit Ihren Gruselgeschichten! - Das ist keine Gruselgeschichte - das ist eine Addition von Tatsachen!!* (Tamara Jagellovsk im Dialog mit Cliff Allister McLane, 1967)
+
+*Quid est veritas?* (Pontius Pilatus, 33. n. C.)
+
+*Nur weil sich so wenig beweisen lässt wird so viel behauptet.* (Alfred Dürr) 
+
+*Alfred Dürr hat die Preise für professionelle Bachforschung verdorben.* (Hans-Joachim Schulze, Hanns Eisler-Preisträger 1973)
+
+*Ey, bin ich denn 80 Jahr alt geworden, daß ich ich immer dasselbe denken soll?* (Johann Wolfgang von Goethe im Gespräch mit Eckermann)
+
+*When you have excluded the impossible, whatever remains, however improbable, must be the truth.* (Sherlock Holmes)
+
+*Nobody else took what I was doing seriously, so nobody would want to work with me. I was thought to be a bit eccentric  and maybe cranky.* (Peter Higgs, 2012, im Rückblick auf 1964)
+
+*Learn the facts - then try on the stories like clothes.* (John Le Carré, 1967)
+
+*Wird das Richtige falsch, wenn es der Falsche sagt?* (Bruno Jonas, 2016)
+
+*Ihre Neugier erschwert meine Arbeit.* (Albert Einstein an David Hilbert, November 1915)
 
 *Das Problem war nur, dass Galilei das Prinzip aller Macht und Politik nicht verstanden hatte: 
 Wenn man etwas weiß, dann nutzt man es für sich – und hält die Klappe* (Wolf Lotter)
+
+...
