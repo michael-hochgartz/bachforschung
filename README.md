@@ -218,6 +218,8 @@ https://github.com/michael-hochgartz/b-a-c-h
 
 *Learn the facts - then try on the stories like clothes.* (John Le Carré, 1967)
 
+*Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch Schreibfreude entwickeln.* (Hans-Gerd Jauch, 2012)
+
 *Wird das Richtige falsch, wenn es der Falsche sagt?* (Bruno Jonas, 2016)
 
 *Ihre Neugier erschwert meine Arbeit.* (Albert Einstein an David Hilbert, November 1915)
