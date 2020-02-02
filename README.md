@@ -199,3 +199,6 @@ https://archiveprogram.github.com
 ## K. Lectio difficilior
 
 https://github.com/michael-hochgartz/b-a-c-h
+
+*Das Problem war nur, dass Galilei das Prinzip aller Macht und Politik nicht verstanden hatte: 
+Wenn man etwas weiß, dann nutzt man es für sich – und hält die Klappe* (Wolf Lotter)
