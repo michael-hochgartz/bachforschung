@@ -200,5 +200,8 @@ https://archiveprogram.github.com
 
 https://github.com/michael-hochgartz/b-a-c-h
 
+## L. Loco praefatio
+
+01. "Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglaends. Men derover glemmer man den anden Saetning, at det maa leves forlaends."
 
 ...
