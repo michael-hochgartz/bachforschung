@@ -230,3 +230,7 @@ https://github.com/michael-hochgartz/b-a-c-h
  Wenn man etwas weiß, dann nutzt man es für sich – und hält die Klappe* (Wolf Lotter)
 
 ...
+
+## X. Ex Oriente Lux
+
+01. https://youtu.be/4fQHtxWbQaY?t=7648
