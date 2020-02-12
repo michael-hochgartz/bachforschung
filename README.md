@@ -210,7 +210,7 @@ https://github.com/michael-hochgartz/b-a-c-h
 
  *Nur weil sich so wenig beweisen lässt wird so viel behauptet.* (Alfred Dürr) 
 
- *Alfred Dürr hat die Preise für professionelle Bachforschung verdorben.* (Hans-Joachim Schulze, Hanns Eisler-Preisträger 1973)
+ *Alfred Dürr hat die Preise für professionelle Bachforschung verdorben.* (Hans-Joachim Schulze, Hanns Eisler-Preisträger)
 
  *Ey, bin ich denn 80 Jahr alt geworden, daß ich ich immer dasselbe denken soll?* (Johann Wolfgang von Goethe im Gespräch mit Eckermann)
 
