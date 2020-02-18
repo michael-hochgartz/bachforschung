@@ -42,7 +42,7 @@
 
 20. Rekonstruktion einer selektiven zyklischen Aufführung des *Concerten-Jahrgangs* Georg Philipp Telemanns. (Ermittlung der Aufführungstermine und der beteiligten Prediger; Konkordanzen zu bekannten Telemann-Quellen.)
 
-21. *Ob ein Poete wohl Superintendens seyn könne?* (Oder ein Superintendens wohl Poete) - Einblicke in das Berufungsverfahren zur Wahl Erdmann Neumeisters zum Hauptpastor der Hamburger Hauptkirche St. Jakobi 1714/15 anhand der Protokoll- und Memorialbücher im Staatsarchiv Hamburg.
+21. *Ob ein Poete wohl Superintendens seyn könne?* (Oder ein Superintendens wohl Poete??) - Einblicke in das Berufungsverfahren zur Wahl Erdmann Neumeisters zum Hauptpastor der Hamburger Hauptkirche St. Jakobi 1714/15 anhand der Protokoll- und Memorialbücher im Staatsarchiv Hamburg.
 
 22. Henriette Catharina von Gersdorff - Spuren zu J.S. Bachs Kantatentexten in ihrem posthum veröffentlichten poetischen Gesamtwerk? - Eine müßige Frage!
 
