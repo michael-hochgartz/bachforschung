@@ -186,14 +186,6 @@ www.linkedin.com/in/bachforschung/
 
 01. Eine Zensur findet nicht statt! https://youtu.be/a8EgqUb_6WM
 
-## J. Regulae
-
-*Copyright Michael Hochgartz, D-48153 Münster, 2015-2020*
-
-**CC-BY-NC-ND 4.0**
-
-https://archiveprogram.github.com
-
 ## K. Lectio difficilior
 
 https://github.com/michael-hochgartz/b-a-c-h
@@ -232,6 +224,14 @@ https://github.com/michael-hochgartz/b-a-c-h
 ## Q. Quastiones
 
 01. *Kann man mit Verrückten vernünftig reden?* https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/wolf-lotter-eigenbewegung
+
+## R. Regulae
+
+*Copyright Michael Hochgartz, D-48153 Münster, 2015-2020*
+
+**CC-BY-NC-ND 4.0**
+
+https://archiveprogram.github.com
 
 ## X. Ex Oriente Lux
 
