@@ -221,7 +221,7 @@ https://github.com/michael-hochgartz/b-a-c-h
 
 ...
 
-## Q. Quastiones
+## Q. Quaestiones
 
 01. *Kann man mit Verrückten vernünftig reden?* https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/wolf-lotter-eigenbewegung
 
