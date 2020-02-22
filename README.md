@@ -198,11 +198,11 @@ https://github.com/michael-hochgartz/b-a-c-h
 
  *Quid est veritas?* (Pontius Pilatus, 33. n. C.)
 
- *Nur weil sich so wenig beweisen lässt wird so viel behauptet.* (Alfred Dürr) 
+ *Nur weil sich so wenig beweisen lässt wird so viel behauptet.* (Alfred Dürr 1990) 
 
  *Alfred Dürr hat die Preise für professionelle Bachforschung verdorben.* (Hans-Joachim Schulze, Hanns Eisler-Preisträger)
  
- *und seine Beweisführung mutet, auf eine betont rüde Formel gebracht, an wie jene bekannte Fernsehlotterie-Reklame, in der uns klipp und klar bewiesen wird, daß wir nur fünf Mark brauchen, um eine Traumvilla, ein Traumauto, eine Traumreise und eine Million zu gewinnen. Der Gedanke an eine Niete bleibt diskret beiseite.* (Alfred Dürr 1990, bzgl. Chafe 1982)
+ *Auch Chafe verkauft uns zwar keinesfalls Nieten, wohl aber Lose, deren Gewinn wir nicht kennen.* (Alfred Dürr 1990)
 
  *Ey, bin ich denn 80 Jahr alt geworden, daß ich ich immer dasselbe denken soll?* (Johann Wolfgang von Goethe im Gespräch mit Eckermann)
 
