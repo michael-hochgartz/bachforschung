@@ -201,6 +201,8 @@ https://github.com/michael-hochgartz/b-a-c-h
  *Nur weil sich so wenig beweisen lässt wird so viel behauptet.* (Alfred Dürr) 
 
  *Alfred Dürr hat die Preise für professionelle Bachforschung verdorben.* (Hans-Joachim Schulze, Hanns Eisler-Preisträger)
+ 
+ * ... und seine Beweisführung mutet, auf eine betont rüde Formel gebracht, an wie jene bekannte Fernsehlotterie-Reklame, in der uns klipp und klar bewiesen wird, daß wir nur fünf Mark brauchen, um eine Traumvilla, ein Traumauto, eine Traumreise und eine Million zu gewinnen. Der Gedanke an eine Niete bleibt diskret beiseite.* (Alfred Dürr 1990, bzgl. Chafe 1982)
 
  *Ey, bin ich denn 80 Jahr alt geworden, daß ich ich immer dasselbe denken soll?* (Johann Wolfgang von Goethe im Gespräch mit Eckermann)
 
