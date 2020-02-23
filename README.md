@@ -192,8 +192,6 @@ https://github.com/michael-hochgartz/b-a-c-h
 
 ## L. Loco praefatio
 
-*Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglaends. Men derover glemmer man den anden Saetning, at det maa leves forlaends.* (Sören Kierkegaard)
-
 *Ach, hören Sie mir doch auf mit Ihren Gruselgeschichten! - Das ist keine Gruselgeschichte - das ist eine Addition von Tatsachen!!* (Tamara Jagellovsk im Dialog mit Cliff Allister McLane, 1967)
 
  *Quid est veritas?* (Pontius Pilatus, 33. n. C.)
@@ -220,6 +218,8 @@ https://github.com/michael-hochgartz/b-a-c-h
 
  *Das Problem war nur, dass Galilei das Prinzip aller Macht und Politik nicht verstanden hatte: 
  Wenn man etwas weiß, dann nutzt man es für sich – und hält die Klappe* (Wolf Lotter)
+ 
+ *Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglaends. Men derover glemmer man den anden Saetning, at det maa leves forlaends.* (Sören Kierkegaard)
 
 ...
 
