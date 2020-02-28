@@ -1,6 +1,7 @@
 Jesu Christo Juvante
 
 Zur Person des „Leipziger“ Hauptlibrettisten Johann Sebastian Bachs
+
 Entwurf für ein Vortragsmanuskript
 
 Michael Hochgartz (D 48153 Münster)
