@@ -182,6 +182,8 @@ www.linkedin.com/in/bachforschung/
 
 02. https://youtu.be/o-FyH2A7Ed0
 
+03. https://www.arte.tv/de/videos/059574-000-A/voyagers-reise-in-die-unendlichkeit/
+
 ## I. Credo
 
 01. Eine Zensur findet nicht statt! https://youtu.be/a8EgqUb_6WM
