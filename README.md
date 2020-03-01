@@ -221,6 +221,10 @@ https://github.com/michael-hochgartz/b-a-c-h
 
 ...
 
+## P. Per Aspera
+
+01. http://www.humboldt-foundation.de/web/kosmos-titelthema-96-3.html
+
 ## Q. Quaestiones
 
 01. *Kann man mit Verrückten vernünftig reden?* https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/wolf-lotter-eigenbewegung
