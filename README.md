@@ -70,7 +70,7 @@
 
 01. *Ein Claviorganum von Jacob Courtain* In: Schlepphorst, Winfried (Hrsg.): Orgelkunst und Orgelforschung. Gedenkschrift Rudolf Reuter, Kassel 1990. ISBN: 3-7618-1005-9 (Einzelbeitrag und Erstellung der Druckvorlage als PostScript-Datei für den gesamten Sammelband.)
 
-02.*Der oldenburgische Orgelbau nach 1800* (Orgelinventar von ca. 100 Kirchengemeinden sowie Catalogue raisonné,  Firmengeschichte und Dokumentation der Bauprinzipien der Hoforgelbauerfamilie Schmid. Durchkorrigiertes Typoscript für eine phil. Diss; ca. 600 Textseiten; ~1993. Zu ergänzen um: Verzeichnis und Korrektur der in ISBN 978-3795908942 enthaltenen Errata.)
+02. *Der oldenburgische Orgelbau nach 1800* (Orgelinventar von ca. 100 Kirchengemeinden sowie Catalogue raisonné,  Firmengeschichte und Dokumentation der Bauprinzipien der Hoforgelbauerfamilie Schmid. Durchkorrigiertes Typoscript für eine phil. Diss; ca. 600 Textseiten; ~1993. Zu ergänzen um: Verzeichnis und Korrektur der in ISBN 978-3795908942 enthaltenen Errata.)
 
 03. Strukturierte Zuordnung von Texten und Melodien der oldenburgischen Gesangbücher des späten 17. bis frühen 20. Jahrhunderts (relationale Datenbank; Stand: 1993)
 
