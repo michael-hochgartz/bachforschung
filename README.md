@@ -4,67 +4,69 @@
 
 01. *O Anfang sonder Ende!* - Eine alte und 40 neue Spuren zur Identifizierung des "Leipziger" Hauptlibrettisten Johann Sebastian Bachs.
 
-02. *Wozu dienet dieser Unrat?* - Drei wiederaufgenommene Spuren zur frühesten Entstehungs- und zur frühesten Rezeptionsgeschichte der Matthäuspassion Johann Sebastian Bachs BWV 244b. (Alfred Dürr 1974; Eric Chafe 1981/82; John Eliot Gardiner 2014.)
+02. *Wozu dienet dieser Unrat?* - Wiederaufgenommene Spuren zur frühesten Entstehungs- und zur frühesten Rezeptionsgeschichte der Matthäuspassion Johann Sebastian Bachs BWV 244b. (Arthur Mendel 1963; Alfred Dürr 1974; Eric Chafe 1981/82; John Eliot Gardiner 2014.)
 
 03. Statistische und orthographische Anomalien bei der primären und sekundären Verwendung spätantiker Invocationsformeln in den Quellenhandschriften Johann Sebastian Bachs.
 
-04. *... daß er ihn herzlich geliebet, sich seiner an Vatersstelle angenommen, ihn treulich informiret und reichlich mit Büchern und Schriften versorget habe.* Heute noch betretbare Fußspuren zur Editions-, Produktions- Rezeptionsgeschichte der Passionspredigten des Rostocker Superintendenten Heinrich Müller.
+04. Vergessene Versatzstücke. Warum es die "Weimarer Fassung" (BC D1) der Johannespassion J.S. Bachs BWV 245 nie gegeben hat.
 
-05. *...als sie* (i.e. *der Pöbel*) *denen Geistlichen das mäßige Toback-Schmauchen verargen.* - Eine literarische Schmauchspur zu den Textdichtern der "moralischen" Strophenarie BWV 515.
+05. *... daß er ihn herzlich geliebet, sich seiner an Vatersstelle angenommen, ihn treulich informiret und reichlich mit Büchern und Schriften versorget habe.* Heute noch betretbare Fußspuren zur Editions-, Produktions- Rezeptionsgeschichte der Passionspredigten des Rostocker Superintendenten Heinrich Müller.
 
-06. *Zeidelbär* und *Ziegenbrätgen* - Lebensweltliche Schlüsselbegriffe als Spuren zu einer feudalistischen Vorgeschichte der Cantata vom Coffee BWV 211.
+06. *...als sie* (i.e. *der Pöbel*) *denen Geistlichen das mäßige Toback-Schmauchen verargen.* - Eine literarische Schmauchspur zu den Textdichtern der "moralischen" Strophenarie BWV 515.
 
-07. *Gottlob! der Drache liegt!* - Bremsspuren der Kontroversen um die kulturpolitische Sozialisation Christian Friedrich Henricis (alias Picander) in den Subtexten Leipziger Vokalwerke Johann Sebastian Bachs.
+07. *Zeidelbär* und *Ziegenbrätgen* - Lebensweltliche Schlüsselbegriffe als Spuren zu einer feudalistischen Vorgeschichte der Cantata vom Coffee BWV 211.
 
-08. *Zerreißet, zerschmettert! Eröffne, verschlinge!* - Eine peinlich profane Parodie der Rachearien (*Dirae*) zeitgenössischer Passionsmusiken für die Augen (und Ohren?) des Leipziger Publikums in der Saison 1725.
+08. *Gottlob! der Drache liegt!* - Bremsspuren der Kontroversen um die kulturpolitische Sozialisation Christian Friedrich Henricis (alias Picander) in den Subtexten Leipziger Vokalwerke Johann Sebastian Bachs.
 
-09. *In hiesiger Residentz ... das neu-componirte Stück ...* - Eine schmale Spur zu den letzten in Freiheit verbrachten Arbeitstagen Johann Sebastian Bachs in Weimar.
+09. *Zerreißet, zerschmettert! Eröffne, verschlinge!* - Eine peinlich profane Parodie der Rachearien (*Dirae*) zeitgenössischer Passionsmusiken für die Augen (und Ohren?) des Leipziger Publikums in der Saison 1725.
 
-10. Ermittlungen zu Inhalt, Herkunft und Relevanz einer undokumentierten Handschrift des Wohltemperierten Claviers I. (Beschreibung; Lesartenverzeichnis; Einordnung in das Stemma der bisher bekannten Abschriften; Provenienzermittlung anhand von Primärquellen; Korrespondenzen mit Alfred Dürr, Yoshitake Kobayashi et. al. Ergänzung zu ISSN 0084-7682, Bd. 97 (2011), S. 81-101)
+10. *In hiesiger Residentz ... das neu-componirte Stück ...* - Eine schmale Spur zu den letzten in Freiheit verbrachten Arbeitstagen Johann Sebastian Bachs in Weimar.
 
-11. Systematische Satzzitate aus den 371 vierstimmigen Chorälen Johann Sebastian Bachs in gedruckt und handschriftlich überlieferten norddeutschen Choralbüchern des 18. Jahrhunderts. (Analoge und digitale Synopsen der betr. Sätze; Konkordanzen zu Werkgruppe F des Bach-Compendiums.)
+11. Ermittlungen zu Inhalt, Herkunft und Relevanz einer undokumentierten Handschrift des Wohltemperierten Claviers I. (Beschreibung; Lesartenverzeichnis; Einordnung in das Stemma der bisher bekannten Abschriften; Provenienzermittlung anhand von Primärquellen; Korrespondenzen mit Alfred Dürr, Yoshitake Kobayashi et. al. Ergänzung zu ISSN 0084-7682, Bd. 97 (2011), S. 81-101)
 
-12. Spuren zum Transformationsprozess von Temperierungen und Stimmtonhöhen norddeutscher Orgeln des 17. bis 19. Jahrhunderts in zeitgenössischen Choralbüchern und undokumentierten Archivalien. (Darin: eine um 1720 aus J.S. Bachs erweitertem beruflichen Umfeld induzierte gleichstufige Stimmanweisung für die Aufführungspraxis eines fernen Fürstenhofs.)
+12. Systematische Satzzitate aus den 371 vierstimmigen Chorälen Johann Sebastian Bachs in gedruckt und handschriftlich überlieferten norddeutschen Choralbüchern des 18. Jahrhunderts. (Analoge und digitale Synopsen der betr. Sätze; Konkordanzen zu Werkgruppe F des Bach-Compendiums.)
 
-13. Spuren zur Überlieferungsgeschichte der "*Resolutio Canonis Ricciani per J.S. Bachium*".
+13. Spuren zum Transformationsprozess von Temperierungen und Stimmtonhöhen norddeutscher Orgeln des 17. bis 19. Jahrhunderts in zeitgenössischen Choralbüchern und undokumentierten Archivalien. (Darin: eine um 1720 aus J.S. Bachs erweitertem beruflichen Umfeld induzierte gleichstufige Stimmanweisung für die Aufführungspraxis eines fernen Fürstenhofs.)
 
-14. *Kirnb. poss.* - Eine Bleistiftspur zur Herkunft von Johann Philipp Kirnbergers Handexemplar von Friedrich Wilhelm Marpurgs *Anleitung zur Singecomposition*.
+14. Spuren zur Überlieferungsgeschichte der "*Resolutio Canonis Ricciani per J.S. Bachium*".
 
-15. Wandersage oder Wunschvorstellung? -  *Zeus Faber* (alias *Petersfisch*) als Kern einer Bach-Legende.
+15. *Kirnb. poss.* - Eine Bleistiftspur zur Herkunft von Johann Philipp Kirnbergers Handexemplar von Friedrich Wilhelm Marpurgs *Anleitung zur Singecomposition*.
 
-16. Ligaturen aus dem Nirwana. Scheidelinien zwischen Fragment und Torso in der Handschrift D-B Mus.ms. Bach P 26.
+16. Wandersage oder Wunschvorstellung? -  *Zeus Faber* (alias *Petersfisch*) als Kern einer Bach-Legende.
 
-17. *Ach, was soll ich Sünder machen?!* - Abendgesänge eines akademischen *Stuben-Gesellen*. Intime Einblicke in das hymnologische Biotop der Jenaischen Liederfreunde um 1700.
+17. Ligaturen aus dem Nirwana. Scheidelinien zwischen Fragment und Torso in der Handschrift D-B Mus.ms. Bach P 26.
 
-18. Ist es *genug*? - Nostalgische Reverenzen an den untergegangenen Elbschwanenorden in J.S. Bachs Kantatentexten.
+18. *Ach, was soll ich Sünder machen?!* - Abendgesänge eines akademischen *Stuben-Gesellen*. Intime Einblicke in das hymnologische Biotop der Jenaischen Liederfreunde um 1700.
 
-19. Kritische Anmerkungen zu einer textlichen und zeichnerischen Bauaufnahme des Gebäudes der Lüneburger Partikularschule bei St. Michaelis aus dem 18. Jahrhundert.
+19. Ist es *genug*? - Nostalgische Reverenzen an den untergegangenen Elbschwanenorden in J.S. Bachs Kantatentexten.
 
-20. Rekonstruktion einer selektiven zyklischen Aufführung des *Concerten-Jahrgangs* Georg Philipp Telemanns. (Ermittlung der Aufführungstermine und der beteiligten Prediger; Konkordanzen zu bekannten Telemann-Quellen.)
+20. Kritische Anmerkungen zu einer textlichen und zeichnerischen Bauaufnahme des Gebäudes der Lüneburger Partikularschule bei St. Michaelis aus dem 18. Jahrhundert.
 
-21. *Ob ein Poete wohl Superintendens seyn könne?* (Oder ein Superintendens wohl Poete??) - Einblicke in das Berufungsverfahren zur Wahl Erdmann Neumeisters zum Hauptpastor der Hamburger Hauptkirche St. Jakobi 1714/15 anhand der Protokoll- und Memorialbücher im Staatsarchiv Hamburg.
+21. Rekonstruktion einer selektiven zyklischen Aufführung des *Concerten-Jahrgangs* Georg Philipp Telemanns. (Ermittlung der Aufführungstermine und der beteiligten Prediger; Konkordanzen zu bekannten Telemann-Quellen.)
 
-22. Henriette Catharina von Gersdorff - Spuren zu J.S. Bachs Kantatentexten in ihrem posthum veröffentlichten poetischen Gesamtwerk? - Eine müßige Frage!
+22. *Ob ein Poete wohl Superintendens seyn könne?* (Oder ein Superintendens wohl Poete??) - Einblicke in das Berufungsverfahren zur Wahl Erdmann Neumeisters zum Hauptpastor der Hamburger Hauptkirche St. Jakobi 1714/15 anhand der Protokoll- und Memorialbücher im Staatsarchiv Hamburg.
 
-23. Buchhalterische Spuren einer (horribile dictu!) Karfreitagsmusik am Hof zu Köthen?
+23. Henriette Catharina von Gersdorff - Spuren zu J.S. Bachs Kantatentexten in ihrem posthum veröffentlichten poetischen Gesamtwerk? - Eine müßige Frage!
 
-24. Die theologische Bibliothek von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten. (Privates Digitalisat des einzigen erhaltenen Exemplars des Versteigerungskatalogs. Übertragung der ca. 5.000 Einheiten in eine Datenbank; Standardisierung und kontinuierliche Anreicherung der bibliographischen Metadaten.)
+24. Buchhalterische Spuren einer (horribile dictu!) Karfreitagsmusik am Hof zu Köthen?
 
-25. Genealogie der Familie des mutmaßlichen "Leipziger" Hauptlibrettisten J.S. Bachs. (10 Generationen vom 17. bis 20. Jahrhundert; anhand öffentlich zugänglicher Quellen digitalisiert; aus Datenschutzgründen exklusiv der noch lebenden Mitglieder.)
+25. Die theologische Bibliothek von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten. (Privates Digitalisat des einzigen erhaltenen Exemplars des Versteigerungskatalogs. Übertragung der ca. 5.000 Einheiten in eine Datenbank; Standardisierung und kontinuierliche Anreicherung der bibliographischen Metadaten.)
 
-26. Vorläufiges Repertorium der Archivquellen zur Geschichte der Orgeln im Münsterischen Paulusdom und im Alten Dom sowie zu deren Organisten (~1300-1945).
+26. Genealogie der Familie des mutmaßlichen "Leipziger" Hauptlibrettisten J.S. Bachs. (10 Generationen vom 17. bis 20. Jahrhundert; anhand öffentlich zugänglicher Quellen digitalisiert; aus Datenschutzgründen exklusiv der noch lebenden Mitglieder.)
 
-27. Ev. Kirchenrat Dr. Adolph Schütte und Pater Dr. Gregor Schwake OSB - Aus der Frühzeit der akademischen Orgelwissenschaft an der WWU Münster.
+27. Vorläufiges Repertorium der Archivquellen zur Geschichte der Orgeln im Münsterischen Paulusdom und im Alten Dom sowie zu deren Organisten (~1300-1945).
 
-28. Photographische Spuren zum möglicherweise (in Westfalen?) erhaltenen Gehäuse der verschollenen, von Gottfried Silbermann für die Frauenkirche Dresden erbauten Chororgel. Oder: Wann und wo hielt der *Lambrequin* Einzug in die dritte Dimension bei der Gestaltung spätbarocker Orgelfronten?
+28. Ev. Kirchenrat Dr. Adolph Schütte und Pater Dr. Gregor Schwake OSB - Aus der Frühzeit der akademischen Orgelwissenschaft an der WWU Münster.
 
-29. Französische Orgelinstrumente mit petit ravalement östlich des Rheins - eine Unmöglichkeit? Spekulationen zur Erklärung einer bis heute unspielbaren Pedalnote in J.S. Bachs Pièce d'orgue BWV 572.
+29. Photographische Spuren zum möglicherweise (in Westfalen?) erhaltenen Gehäuse der verschollenen, von Gottfried Silbermann für die Frauenkirche Dresden erbauten Chororgel. Oder: Wann und wo hielt der *Lambrequin* Einzug in die dritte Dimension bei der Gestaltung spätbarocker Orgelfronten?
 
-30. Beobachtungen an den beim Bau seiner französisch inspirierten Orgeln von Jacob Courtain leihweise benutzten Originalexemplaren der *Déscription des Arts et Métiers* (Paris 1761-1788)
+30. Französische Orgelinstrumente mit petit ravalement östlich des Rheins - eine Unmöglichkeit? Spekulationen zur Erklärung einer bis heute unspielbaren Pedalnote in J.S. Bachs Pièce d'orgue BWV 572.
 
-31. Hat es die viermanualige Klaviatur der Osnabrücker Marienkirchen-Orgel (1790) wirklich nicht bis in das Musikinstrumentenmuseum der Universität Leipzig geschafft? Erinnerungen an ein schemenhaftes Rencontre vor Ort.
+31. Beobachtungen an den beim Bau seiner französisch inspirierten Orgeln von Jacob Courtain leihweise benutzten Originalexemplaren der *Déscription des Arts et Métiers* (Paris 1761-1788)
 
-32. Noch *ein Claviorganum von Jacob Courtain* - erhalten in einer süddeutschen Sammlung?
+32. Hat es die viermanualige Klaviatur der Osnabrücker Marienkirchen-Orgel (1790) wirklich nicht bis in das Musikinstrumentenmuseum der Universität Leipzig geschafft? Erinnerungen an ein schemenhaftes Rencontre vor Ort.
+
+33. Noch *ein Claviorganum von Jacob Courtain* - erhalten in einer süddeutschen Sammlung?
 
 ## B. Memorabilia
 
