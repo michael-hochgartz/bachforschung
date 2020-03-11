@@ -8,7 +8,7 @@
 
 03. Statistische und orthographische Anomalien bei der primären und sekundären Verwendung spätantiker Invocationsformeln in den Quellenhandschriften Johann Sebastian Bachs.
 
-04. Verschmähte Versatzstücke. Warum es eine "Weimarer Fassung" (BC D1) der Johannespassion J.S. Bachs BWV 245 nie gegeben hat.
+04. Verschmähte Versatzstücke. Stammen wirklich alle Einlagen der Johannespassion II aus der "Weimarer Passion" (BC D1)?
 
 05. *... daß er ihn herzlich geliebet, sich seiner an Vatersstelle angenommen, ihn treulich informiret und reichlich mit Büchern und Schriften versorget habe.* Heute noch betretbare Fußspuren zur Editions-, Produktions- Rezeptionsgeschichte der Passionspredigten des Rostocker Superintendenten Heinrich Müller.
 
