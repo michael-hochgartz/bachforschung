@@ -244,3 +244,7 @@ https://archiveprogram.github.com
 * https://www.youtube.com/watch?v=QxY_6dg9F80
 * https://youtu.be/TO74PaaR_Ug?t=5248
 * https://de.wikipedia.org/wiki/Grigori_Jakowlewitsch_Perelman
+
+## Y. Ad hoc
+
+2020-03-20: *Was kümmert mich der Schiffbruch der Welt, ich weiß von nichts als meiner seligen Insel.* (Friedrich Hölderlin, Hyperion)
