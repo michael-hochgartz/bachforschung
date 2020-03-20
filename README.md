@@ -247,4 +247,4 @@ https://archiveprogram.github.com
 
 ## Y. Ad hoc
 
-2020-03-20: *Was kümmert mich der Schiffbruch der Welt, ich weiß von nichts als meiner seligen Insel.* (Friedrich Hölderlin, Hyperion)
+2020-03-20: *Was kümmert mich der Schiffbruch der Welt, ich weiß von nichts als meiner seligen Insel.* (Johann Christian Friedrich Hölderlin, Hyperion)
