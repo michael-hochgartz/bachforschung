@@ -50,7 +50,7 @@
 
 24. Buchhalterische Spuren einer (horribile dictu!) Karfreitagsmusik am Hof zu Köthen?
 
-25. Die theologische Bibliothek von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten. (Privates Digitalisat des einzigen erhaltenen Exemplars des Versteigerungskatalogs. Übertragung der ca. 5.000 Einheiten in eine Datenbank; Standardisierung und kontinuierliche Anreicherung der bibliographischen Metadaten.)
+25. Die theologische Bibliothek von J.S. Bachs mutmaßlichem "Leipziger" Hauptlibrettisten. (Privates Digitalisat des einzigen erhaltenen Exemplars des Versteigerungskatalogs. Verzeichnet u.a. das "Wagnersche Gesangbuch" und die dreibändige "Biblia Illustrata" von Abraham Calov. Übertragung der ca. 5.000 Einheiten in eine Datenbank; Standardisierung und kontinuierliche Anreicherung der bibliographischen Metadaten.)
 
 26. Genealogie der Familie des mutmaßlichen "Leipziger" Hauptlibrettisten J.S. Bachs. (10 Generationen vom 17. bis 20. Jahrhundert; anhand öffentlich zugänglicher Quellen digitalisiert; aus Datenschutzgründen exklusiv der noch lebenden Mitglieder.)
 
