@@ -221,6 +221,8 @@ https://github.com/michael-hochgartz/b-a-c-h
  
 *Wird das Richtige falsch, wenn es der Falsche sagt?* (Bruno Jonas, 2016)
 
+*Ein Narr sagt, was er weiß; ein Weiser weiß, was er sagt.* (Jüdische Weisheit)
+
 ...
 
 ## P. Per Aspera
