@@ -114,6 +114,8 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 21. *Meine Abreise aus Braunschweig war so eilfertig ...* - Auf der Suche nach archivalischen Spuren zu Wilhelm Friedemann Bachs (auf der Flucht vor einer Subhastation durch seine Gläubiger) hinterlassenen *Musikalien und Büchern, ... Kirchen Musiquen und Jahrgängen*.
 
+22. Wann, wo und von wem wurde J.S. Bach konfirmiert?
+
 ## C. Ad oculos - ad aures
 
 01. Gerhard Richter: *Zwei graue Doppelspiegel für ein Pendel Opus 953* in der Dominikanerkirche Münster. Impressionen am Tag der Einweihung. https://youtu.be/cCmiMY2E3kY
