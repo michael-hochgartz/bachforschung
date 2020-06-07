@@ -180,14 +180,6 @@ www.linkedin.com/in/bachforschung/
 
 05. N.N.
 
-## H. Ad astra
-
-01. https://youtu.be/fzI9FNjXQ0o
-
-02. https://youtu.be/o-FyH2A7Ed0
-
-03. https://www.arte.tv/de/videos/059574-000-A/voyagers-reise-in-die-unendlichkeit/
-
 ## I. Credo
 
 01. Eine Zensur findet nicht statt! https://youtu.be/a8EgqUb_6WM
@@ -196,45 +188,6 @@ www.linkedin.com/in/bachforschung/
 
 https://github.com/michael-hochgartz/b-a-c-h
 
-## L. Loco praefatio
-
-*Quid est veritas?* (Pontius Pilatus, 33. n. C.)
- 
-*When you have excluded the impossible, whatever remains, however improbable, must be the truth.* (Sherlock Holmes)
- 
-*Learn the facts - then try on the stories like clothes.* (John Le Carré, 1967)
-
-*Man muss dem Gericht natürlich eine stimmige und lebensnahe Geschichte präsentieren, und man kann da auch Schreibfreude entwickeln.* (Hans-Gerd Jauch, 2012)
-
-*Ach, hören Sie mir doch auf mit Ihren Gruselgeschichten! - Das ist keine Gruselgeschichte - das ist eine Addition von Tatsachen!!* (Tamara Jagellovsk im Dialog mit Cliff Allister McLane, 1967)
-
-*Nur weil sich so wenig beweisen lässt wird so viel behauptet.* (Alfred Dürr 1990) 
-
-*Alfred Dürr hat die Preise für professionelle Bachforschung verdorben.* (Hans-Joachim Schulze, Hanns Eisler-Preisträger)
- 
-*Auch Chafe verkauft uns zwar keinesfalls Nieten, wohl aber Lose, deren Gewinn wir nicht kennen.* (Alfred Dürr 1990)
-
-*Ihre Neugier erschwert meine Arbeit.* (Albert Einstein an David Hilbert, November 1915)
-
-*Nobody else took what I was doing seriously, so nobody would want to work with me. I was thought to be a bit eccentric  and maybe cranky.* (Peter Higgs, 2012, im Rückblick auf 1964)
-
-*Das Problem war nur, dass Galilei das Prinzip aller Macht und Politik nicht verstanden hatte: 
- Wenn man etwas weiß, dann nutzt man es für sich – und hält die Klappe* (Wolf Lotter)
- 
-*Wird das Richtige falsch, wenn es der Falsche sagt?* (Bruno Jonas, 2016)
-
-*Ein Narr sagt, was er weiß; ein Weiser weiß, was er sagt.* (Jüdische Weisheit)
-
-...
-
-## P. Per Aspera
-
-01. http://www.humboldt-foundation.de/web/kosmos-titelthema-96-3.html
-
-## Q. Quaestiones
-
-01. *Kann man mit Verrückten vernünftig reden?* https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/wolf-lotter-eigenbewegung
-
 ## R. Regulae
 
 *Copyright Michael Hochgartz, D-48153 Münster, 2015-2020*
@@ -242,12 +195,6 @@ https://github.com/michael-hochgartz/b-a-c-h
 **CC-BY-NC-ND 4.0**
 
 https://archiveprogram.github.com
-
-## X. Ex Oriente Lux
-
-* https://www.youtube.com/watch?v=QxY_6dg9F80
-* https://youtu.be/TO74PaaR_Ug?t=5248
-* https://de.wikipedia.org/wiki/Grigori_Jakowlewitsch_Perelman
 
 ## Y. Ad hoc
 
