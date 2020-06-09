@@ -8,7 +8,7 @@
 
 03. Statistische und orthographische Anomalien bei der primären und sekundären Verwendung spätantiker Invocationsformeln in den Quellenhandschriften Johann Sebastian Bachs.
 
-04. *... und meine Sterbekissen ein Kampfplatz werden müssen ...* Individualeschatologische Rollenprosa oder Innere Monologe in J.S. Bachs letzten Choralkantatentexten?
+04. *... und meine Sterbekissen ein Kampfplatz werden müssen ...* - Individualeschatologische Rollenprosa oder Innere Monologe in J.S. Bachs letzten Choralkantatentexten?
 
 05. *... daß er ihn herzlich geliebet, sich seiner an Vatersstelle angenommen, ihn treulich informiret und reichlich mit Büchern und Schriften versorget habe.* Heute noch betretbare Fußspuren zur Editions-, Produktions- und Rezeptionsgeschichte der Passionspredigten des Rostocker Superintendenten Heinrich Müller.
 
@@ -82,7 +82,7 @@
 
 06. Eine zeitgenössische Quelle zur Cent-genauen Schätzung der Stimmtonhöhe Hamburger Kirchenmusikaufführungen während der späten Amtszeit C.P.E. Bachs. (Primärquellendokumentation; ~1993)
 
-07. Autographe curricula vitae mitteldeutscher Kandidaten nebst Empfehlungsschreiben in den Bewerbungsakten für ein norddeutsches Kantorat. (Primärquellendokumentation; ~1993; darin u.a.: eine per couvert verschickte Kantatenpartitur)
+07. Autographe curricula vitae mitteldeutscher Kandidaten nebst Empfehlungsschreiben in den Bewerbungsakten für ein norddeutsches Kantorat. (Primärquellendokumentation; ~1993; darin u.a.: ein Zeugnis J.N. Forkels und eine per couvert verschickte Kantatenpartitur)
 
 08. Digitale Grundlagen für eine analoge zeichnerische Rekonstruktion der Möller-Orgel im Paulusdom Münster. (1991 für eine Auftragsarbeit des Münsterischen Domkapitels zugeliefert. 2004 - mit unzutreffendem Urhebernachweis für Abb. 25.8 - veröffentlicht in: ISBN 3-8053-3416-8, Teilband 2.2.)
 
