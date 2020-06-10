@@ -158,6 +158,8 @@ michael@hochgartz.de
 
 www.linkedin.com/in/bachforschung/
 
+https://twitter.com/Bachforschung
+
 ///traube.teilzeit.haustür 
 
 ///divisions.arriving.curry
