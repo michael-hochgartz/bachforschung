@@ -201,7 +201,10 @@ https://archiveprogram.github.com
 ## Y. Ad hoc
 
 2020-06-21: *... mit sechs Kindern, vier großen Hunden und einer Frau wäre es sonst kaum möglich, den Überblick zu behalten.* 
-Noch ein Grund, warum ich hingegen - solang es eben geht - pseudonym operiere. Andererseits: *Es bedarf manchmal vielleicht einfach einer gewissen Zeit der Gewöhnung an die Faktenlage...* 
+Noch ein Grund, warum ich hingegen - solang es eben geht - pseudonym operiere. 
+
+Andererseits: *Es bedarf manchmal vielleicht einfach einer gewissen Zeit der Gewöhnung an die Faktenlage...* Nach dem Motto *Ich schulde nur das Bemühen, nicht den Erfolg*
+
 Vielleicht heißt es dann am Ende: *Klar, sofort.*
 
 2020-03-20: *Was kümmert mich der Schiffbruch der Welt, ich weiß von nichts als meiner seligen Insel.* (Johann Christian Friedrich Hölderlin, Hyperion)
