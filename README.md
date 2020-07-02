@@ -116,6 +116,8 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 22. Wann, wo und von wem wurde J.S. Bach konfirmiert?
 
+23. Konnte Bach "rückwärts" komponieren? - Über einen zunächst herrenlosen Halbtakt in BWV 244b.
+
 ## C. Ad oculos - ad aures
 
 01. Gerhard Richter: *Zwei graue Doppelspiegel für ein Pendel Opus 953* in der Dominikanerkirche Münster. Impressionen am Tag der Einweihung. https://youtu.be/cCmiMY2E3kY
