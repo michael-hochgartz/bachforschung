@@ -118,6 +118,8 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 23. Konnte Bach "rückwärts" komponieren? - Über einen zunächst herrenlosen Halbtakt in BWV 244b.
 
+24. *... als wie ein Lamm ... * - Norddeutscher Regionalismus, metrische Notlösung Bachs, Allusion an Paul Gerhardt - oder alles zusammen?
+
 ## C. Ad oculos - ad aures
 
 01. Gerhard Richter: *Zwei graue Doppelspiegel für ein Pendel Opus 953* in der Dominikanerkirche Münster. Impressionen am Tag der Einweihung. https://youtu.be/cCmiMY2E3kY
