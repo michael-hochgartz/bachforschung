@@ -118,7 +118,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 23. Konnte Bach "rückwärts" komponieren? - Über einen zunächst herrenlosen Halbtakt in BWV 244b.
 
-24. ... *als wie ein Lamm* ... - Norddeutscher Regionalismus, metrische Notlösung Bachs, Allusion an Paul Gerhardt - oder alles zusammen?
+24. ... *als wie ein Lamm* ... - Metrische Notlösung Bachs, Allusion an Paul Gerhardt, Vorschau auf Goethe, niederdeutscher Regionalismus - oder einfach nur legitime zeitgenössische Gebrauchsgrammatik?
 
 ## C. Ad oculos - ad aures
 
