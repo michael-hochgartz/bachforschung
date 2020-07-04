@@ -145,7 +145,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 01. Prof. Dr. Rudolf Reuter (Musik- und Orgelwissenschaft) https://youtu.be/McvScaJCQW4
 
-02. Domorganist Prof. Dr. Winfried Schlepphorst (Orgel- und Musikwissenschaft)
+02. Domorganist Prof. Dr. Winfried Schlepphorst (Orgel- und Musikwissenschaft) https://www.uni-muenster.de/Archiv/
 
 03. Prof.'in Dr. Maria-Elisabeth Brockhoff (Musikwissenschaft)
 
