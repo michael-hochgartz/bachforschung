@@ -120,7 +120,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 24. ... *als wie ein Lamm* ... - Metrische Notlösung Bachs, Allusion an Paul Gerhardt, Vorschau auf Goethe, niederdeutscher Regionalismus - oder einfach nur legitime zeitgenössische Gebrauchsgrammatik?
 
-25. *Ein Rohr hat von aussen ein schönes Ansehen, und ist doch inwendig leer.* - Warum das Prinzip der "lectio difficlior" bei J.S. Bach den Blick auf die Tatsachen verstellen kann.
+25. *Ein Rohr hat von aussen ein schönes Ansehen, und ist doch inwendig leer.* - Warum das Prinzip der "lectio difficilior" bei J.S. Bach den Blick auf die Tatsachen verstellen kann.
 
 ## C. Ad oculos - ad aures
 
