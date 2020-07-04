@@ -120,6 +120,8 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 24. ... *als wie ein Lamm* ... - Metrische Notlösung Bachs, Allusion an Paul Gerhardt, Vorschau auf Goethe, niederdeutscher Regionalismus - oder einfach nur legitime zeitgenössische Gebrauchsgrammatik?
 
+25. *Ein Rohr hat von aussen ein schönes Ansehen, und ist doch inwendig leer.* - Warum das Prinzip der "lectio difficlior" bei J.S. Bach den Blick auf die Tatsachen verstellen kann.
+
 ## C. Ad oculos - ad aures
 
 01. Gerhard Richter: *Zwei graue Doppelspiegel für ein Pendel Opus 953* in der Dominikanerkirche Münster. Impressionen am Tag der Einweihung. https://youtu.be/cCmiMY2E3kY
