@@ -122,6 +122,9 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 25. *Ein Rohr hat von aussen ein schönes Ansehen, und ist doch inwendig leer.* - Warum das Prinzip der "lectio difficilior" bei J.S. Bach den Blick auf die Tatsachen verstellen kann.
 
+26. HWV Anh. B 202 - a never ending story.
+
+
 ## C. Ad oculos - ad aures
 
 01. Gerhard Richter: *Zwei graue Doppelspiegel für ein Pendel Opus 953* in der Dominikanerkirche Münster. Impressionen am Tag der Einweihung. https://youtu.be/cCmiMY2E3kY
