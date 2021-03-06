@@ -100,7 +100,7 @@ Wegen unzureichender Datenbasis zugunsten eines partiell positivistischen Ansatz
 
 14. Wer will das alles lesen? Wer muss das alles kennen?? Wer mag das alles glauben??? Anmerkungen zu Martin Petzoldts Bach-Kommentar.
 
-15. Bestandsbegutachtung und Restaurierungsvorschlag für die pneumatische Schmid-Orgel (1903/1845) in der Aula des ehemaligen Lehrerseminars Oldenburg für das damalige Staatshochbauamt Oldenburg. (1992; Primärquellendokumentation; Innen- und Außenaufnahmen des seit 1964 verwahrlosten Instruments; schriftliche Handlungsempfehlung z.Hd. der Amtsleitung.)
+15. Bestandsbegutachtung und Restaurierungsvorschlag für die pneumatische Schmid-Orgel (1902/1845) in der Aula des ehemaligen Lehrerseminars Oldenburg für das damalige Staatshochbauamt Oldenburg. (1988; Primärquellendokumentation; Innen- und Außenaufnahmen des seit 1964 verwahrlosten Instruments; schriftliche Handlungsempfehlung z.Hd. der Amtsleitung.)
 
 16. Ein unbeachteter Kostenanschlag für eine späte, letztendlich von einem Schüler realisierte dreimanualige Orgel Arp Schnitgers. (Darin: Eine bislang unbekannte Erwähnung Dieterich Buxtehudes als beabsichtigtem Abnahmegutachter. Primärquellendokumentation; ~1985)
 
