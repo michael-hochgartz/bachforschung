@@ -10,3 +10,7 @@ Aufbauend auf langjährigen Quellenstudien werden sodann [Leben und Werk](https:
 
 Die als separates Repositorium dokumentierte vollständige Lesart: https://github.com/michael-hochgartz/lectio-difficilior ist hinsichtlich der beiden Haupttexte inhaltsgleich, die Commit-Historie reicht aber bis 2015 zurück und bleibt vorerst privat. Es ist geplant, sie inklusive aller Quellen- und Literaturnachweise als NFT (Non-Fungible Token) dem Markt zur Verfügung zu stellen.  
 
+In the form of 16 theses, the initial considerations and conclusions for an identification by name of the poet who provided the texts for Johann Sebastian Bach's choral cantata year and the associated Passion until his sudden death in January 1725 are first presented.
+Building on many years of source studies, the life and work of this theologian are then presented as a draft of an essay manuscript.
+
+Documented as a separate repository, the full reading: https://github.com/michael-hochgartz/lectio-difficilior is identical in content with respect to the two main texts, but the commit history extends back to 2015 and remains private for now. It is planned to make it available to the market as a NFT (Non-Fungible Token) including all source and literature references.
